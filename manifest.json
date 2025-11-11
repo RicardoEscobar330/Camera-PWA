@@ -1,0 +1,25 @@
+{
+    "name": "PWA Cámara - Adrián",
+    "short_name": "CamaraPWA",
+    "description": "Aplicación web progresiva para tomar fotos con la cámara del dispositivo y gestionar galería",
+    "start_url": "https://aserejex22.github.io/pwa-camara/",
+    "scope": "https://aserejex22.github.io/pwa-camara/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#667eea",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://aserejex22.github.io/pwa-camara/img/192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://aserejex22.github.io/pwa-camara/img/512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
